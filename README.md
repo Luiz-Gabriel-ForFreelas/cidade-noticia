@@ -1,2 +1,3 @@
 # cidade-noticia
- Projeto criado durante o meu curso de desenvolvimento web
+
+Projeto HTML feito para imitar um blog de notícias com a finalidade de treinar o uso de criação de layouts com mais de uma coluna.
